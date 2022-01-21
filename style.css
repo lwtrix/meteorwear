@@ -260,7 +260,6 @@ section {
     .product__image {
         float: right;
         width: 65%;
-        shape-outside: url(img/shoe-1.png);
         shape-margin: 1em;
         margin: 0 -5em 0 0; 
     }
